@@ -1,8 +1,12 @@
 body {
-    background-color: #DFE8CC;
+    background-color: #F5EBE0;
 }
 
 
-img {
-    height: 300px;
+.coconut-img {
+    height: 400px;
+}
+
+.coffee-img {
+    height: 400px;
 }
